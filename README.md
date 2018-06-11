@@ -1,4 +1,6 @@
-# OpenCV for Pi (ONLY WORKING ON RASPBIAN JEESIE, NOT STRETCH)
+# OpenCV for Pi
+# **(ONLY WORKING ON RASPBIAN JEESIE, NOT STRETCH)**
+
 A pre-compiled binary of OpenCV for the Raspberry Pi.   It is available in a ".deb" package and will save you countless hours not having to compile it yourself.  This may or may not stay updated as I have to manually compile each version.  I will try to make available most major versions.  This was compiled on a Raspberry Pi 3 Model B+ running raspbian jessie.  This version was built with TBB which enables automagic multithreading in many OpenCV algorithms.
 
 # Super Lazy Version
